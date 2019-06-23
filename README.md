@@ -1,6 +1,11 @@
 # old-slack-logo
 
-These are the files you can use to restore Slacks older logo, the one that doesn't suck as bad.
+![Slack-Logo-old-new](https://user-images.githubusercontent.com/4629794/59982844-41c5a780-95e6-11e9-9e1e-8a943fd559a8.jpg)
+
+These are the files you can use to restore Slacks older logo, the one that doesn't suck as bad (but still kinda sucks).
+
+
+# Instructions
 
 1. Close and exit Slack
 1. Download this repo
@@ -9,4 +14,4 @@ These are the files you can use to restore Slacks older logo, the one that doesn
 
 I'm to lazy to write a batch script for this.
 
-I've only had to do this twice, so I guess they don't update it very often or something.
+I've only had to do this twice, so I guess they don't update it very often or something 🤷
